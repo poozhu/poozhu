@@ -2,7 +2,7 @@
 
 #### Hello 👋
  
-> I'm the creator of these Crawlers 👉 [Github](http://zy2071.com/Fun/todayGithub.html)/[掘金](http://zy2071.com/Fun/todayJueJin.html)  
+> I'm the creator of these Crawlers 👉 [Github](http://zy2071.com/project-center/#/githubTrending)/[掘金](http://zy2071.com/project-center/#/jueJinHot)  
 >  
 >  
 > and I’m currently working with 
