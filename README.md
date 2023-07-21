@@ -2,7 +2,7 @@
 
 #### Hello 👋
  
-> I'm the creator of these Crawlers 👉 [GitHub](https://poozhu.cn/project-center/#/github-trending)/[掘金](https://poozhu.cn/project-center/#/juejin-favorites)  
+> I'm the author of these crawlers 👉 [GitHub](https://poozhu.cn/project-center/#/github-trending)/[掘金](https://poozhu.cn/project-center/#/juejin-favorites)  
 >  
 >  
 > and I’m currently working with 
