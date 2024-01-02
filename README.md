@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=poozhu&count_private=true&show_icons=true&hide_border=true&hide_title=true" />
-
 #### Hello 👋
  
 > I'm the author of these crawlers 👉 [GitHub](https://poozhu.cn/project-center/#/github-trending)/[掘金](https://poozhu.cn/project-center/#/juejin-favorites)  
