@@ -1,11 +1,12 @@
 #### Hello 👋
  
-> I'm the author of these crawlers 👉 [GitHub](https://poozhu.cn/project-center/#/github-trending)/[掘金](https://poozhu.cn/project-center/#/juejin-favorites)  
+> I'm the author of these projects 👉 [project-center](https://poozhu.cn/project-center/#)
 >  
 >  
-> and I’m currently working with 
+> and currently working with 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <!--
